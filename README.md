@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi!
-I'm passionate about coding and technology, with a solid foundation in Python. I'm currently focused on leveling up my skills in Machine Learning and Deep Learning, diving deeper into the exciting world of Artificial Intelligence. Always eager to learn, experiment, and build projects that bring ideas to life!
+I'm currently focused on leveling up my skills in ML and DL, diving deeper into the exciting world of AI. Always eager to learn, experiment, and build projects that bring ideas to life!
 
 
 ## 🌐 Socials:
